@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.env
+.env
+venv/
+ENV/
+*.egg-info/
+*.egg
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test and coverage
+.coverage
+htmlcov/
+
+# Lock and package files
+*.lock
+
+# Misc
+*.log
+*.sqlite3
+
+# Ignore virtual environments
+.env/
+.venv/
+
+# Ignore build
+build/
+dist/
