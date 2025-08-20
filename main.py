@@ -25,9 +25,9 @@ class Move:
         else:
             return 2 # third column
         
+class Player:
+    pass
 
-move = Move(5)
-print(move.get_column())
         
         
 
