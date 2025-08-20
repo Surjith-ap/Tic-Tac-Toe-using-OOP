@@ -39,4 +39,7 @@ class Board:
         else:
             print("Enter at a different position")
 
+    def check_game_over(self, player, last_move):
+        return
+
 
